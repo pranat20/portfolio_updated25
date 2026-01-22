@@ -17,7 +17,7 @@ import WebDevIntern from './assets/certificates/Elite.png'; // Corrected file na
 import IlluminateWorkshop from './assets/certificates/Illuminate Certificate.jpg'; // Corrected file name/extension
 import CrafterverseHackathon from './assets/certificates/Craftverse Certificate hackathon.jpg'; // Corrected file name/extension
 import ProfileImage from './assets/certificates/Photo.jpg';
-import ResumePDF from './assets/certificates/Pranat_Pagar_Resume_2026.pdf';
+import ResumePDF from './assets/certificates/Pranat_Pagar_Resume_Magic.pdf';
 
 
 // --- Configuration Data ---
