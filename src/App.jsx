@@ -17,7 +17,7 @@ import WebDevIntern from './assets/certificates/Elite.png'; // Corrected file na
 import IlluminateWorkshop from './assets/certificates/Illuminate Certificate.jpg'; // Corrected file name/extension
 import CrafterverseHackathon from './assets/certificates/Craftverse Certificate hackathon.jpg'; // Corrected file name/extension
 import ProfileImage from './assets/certificates/Photo.jpg';
-import ResumePDF from './assets/certificates/Pranat_Pagar_Resume_Updated.pdf';
+import ResumePDF from './assets/certificates/Pranat_Pagar_Resume_2026.pdf';
 
 
 // --- Configuration Data ---
@@ -52,9 +52,9 @@ const config = {
   },
   experience: [
     {
-      title: "Full Stack Developer Intern",
+      title: "Software Engineer Intern",
       company: "Elite Softwares, Pune",
-      duration: "Feb – Apr 2025",
+      duration: "Dec 2025 - Present",
       icon: Briefcase,
       details: [
         "Engineered the authentication and session management backend using Django, resulting in a 30% reduction in reported login errors.",
@@ -150,7 +150,6 @@ const config = {
     { name: "Automatic Street Light (Centrado Kit)", issuer: "Infosys Springboard", type: "Course", date: "2025", link: "#", image: CentradoKit },
     { name: "Technocrats-2K25 (PBL Competition)", issuer: "D. Y. Patil College", type: "Achievement", date: "2025", link: "#", image: Technocrats },
     { name: "UI/UX Designer Intern", issuer: "Codec Technologies", type: "Internship", date: "2025", link: "#", image: UIUXCert },
-    { name: "Web Developer Intern", issuer: "Elite Softwares", type: "Internship", date: "2025", link: "#", image: WebDevIntern },
     { name: "Illuminate Workshop Organizer", issuer: "E-Cell DYPCOEI (Guided by IIT Bombay)", type: "Leadership", date: "2025", link: "#", image: IlluminateWorkshop },
     { name: "Crafterverse Hackathon Participant", issuer: "PCCOER", type: "Hackathon", date: "2025", link: "#", image: CrafterverseHackathon }
   ],
